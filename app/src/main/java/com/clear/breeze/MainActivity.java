@@ -8,7 +8,6 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     // 声明页面控件
     private TextView tvPoemContent;
-    private TextView tvNoteContent;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
